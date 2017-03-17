@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:09:23:59 +0800] "GET /async HTTP/1.1" 500 310 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:09:23:59 +0800] "GET /favicon.ico HTTP/1.1" 200 946 "http://localhost:8680/async" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:09:24:56 +0800] "GET /async HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:09:28:53 +0800] "GET /async HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:09:28:53 +0800] "GET /favicon.ico HTTP/1.1" 200 946 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:09:30:09 +0800] "GET /async HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:09:30:11 +0800] "GET /async HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
